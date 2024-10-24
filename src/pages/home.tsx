@@ -7,7 +7,7 @@ function Home() {
       className="flex flex-col items-center h-[100%] mt-[6vh] lg:mt-[10vh] lg:flex-row lg:justify-between "
     >
       <img src={me} alt="me" className="w-[90%] rounded-[100%] lg:w-[30vw] lg:h-[58vh]" />
-      <div className="text-white  w-[90%] lg:w-[30vw]">
+      <div className="text-white  w-[100%] lg:w-[30vw]">
         <h1
           className="text-[7.5vh] jersey-25 line anim-typewriter-1 "
         >
